@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container1{
+    display: flex;
+    justify-content: space-around;
+    background-color: #3232ff;
+    color: #fff;
+    width: 100%;
+    margin: 0 auto;
+    padding:  15px 30px;
+
+}
+body{
+    width: 90%;
+    background-color:#fff ;
+    margin: 0 auto;
+}
+.welcome{
+    font-size: 30px;
+    text-transform: uppercase;
+    font-style:inherit;
+}
+.container1{
+    width: 100%;
+
+}
+.box{
+    width: 100%;
+    margin-top: 10px;
+    margin-right: 10px;
+    height: 830px;
+    background-color: #3232ff;
+    color: #fff;
+}
+
+.form{
+    margin-left: 20px;
+    font-size: 20px;
+    font-style: italic;
+    padding: 20px;
+}
+#submitans{
+    width: 100px;
+    height: 30px;
+    border-radius: 7px;
+    background-color: black;
+    color: white;
+}
+
+#like{
+font-size: 30px;
+margin-left: 20px;
+color: red;
+font-style: unset;
+}
